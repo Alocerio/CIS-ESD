@@ -1,6 +1,8 @@
 # ESD-AAD-TEST
 Just a AAD test // Air Computers 
 
+# Lets run: npm install  => npm start 
+
 ## Docs 
 
 -  https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent
