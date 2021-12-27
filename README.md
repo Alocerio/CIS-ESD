@@ -1,7 +1,7 @@
-# ESD-AAD-TEST
+# AAD TEST
 Just a AAD test // Air Computers 
 
-# Lets run: npm install  => npm start 
+#### Lets run: npm install  => npm start 
 
 ## Docs 
 
@@ -12,7 +12,3 @@ Just a AAD test // Air Computers
 - https://www.youtube.com/watch?v=ofv4YRb-Jbk&t=2109s&ab_channel=MicrosoftDevRadio
 - https://www.npmjs.com/package/@azure/msal-node
 - https://jwt.io/
-# CIS-ESD
-# CIS-ESD
-# CIS-ESD
-# CIS-ESD
